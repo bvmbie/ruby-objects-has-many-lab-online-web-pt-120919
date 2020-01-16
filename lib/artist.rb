@@ -21,7 +21,7 @@ class Artist
     #@@song_count =+ 1
   end
   
-  def add_song_by_name(name)
+  def add_song_by_name(song_name)
     #song = Song.new(name)
     #add_song(song)
     #self.songs << song
